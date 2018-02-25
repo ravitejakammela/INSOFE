@@ -1,2 +1,0 @@
-# INSOFE
-salary prediction
